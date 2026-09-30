@@ -86,7 +86,7 @@ Third Prize — **Promising Digital Technology System**, as a member of the team
 ## Contact
 
 - **Email:** [tunganhnguyen516@gmail.com](mailto:tunganhnguyen516@gmail.com)
-- **LinkedIn:** [tundzai001](www.linkedin.com/in/tundzai001)
+- **LinkedIn:** [tundzai001](https://www.linkedin.com/in/tundzai001/)
 
 <div align="center">
   <sub>Build carefully. Measure precisely. Keep improving.</sub>
