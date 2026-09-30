@@ -17,7 +17,7 @@ I build software across web applications, backend services, connected field devi
 ## Recognition
 
 🏆 **Third Prize — Promising Digital Technology System**  
-**Nhân tài Đất Việt 2025**, as a member of the team behind **“Hệ thống giám sát và cảnh báo sạt lở sớm”** (Early Landslide Monitoring and Warning System). [Award coverage](https://vietnamnet.vn/giai-thuong-nhan-tai-dat-viet-nam-2025-linh-vuc-cong-nghe-so-khuyet-giai-nhat-2456912.html)
+**Nhân tài Đất Việt 2025**, as a member of the team behind **“Hệ thống giám sát và cảnh báo sạt lở sớm”** (Early Landslide Monitoring and Warning System). [Award coverage]([https://vietnamnet.vn/giai-thuong-nhan-tai-dat-viet-nam-2025-linh-vuc-cong-nghe-so-khuyet-giai-nhat-2456912.html](https://www.vietnam.vn/dieu-dac-biet-o-cong-trinh-canh-bao-sat-lo-som-vinh-danh-nhan-tai-dat-viet))
 
 ## Featured project
 
