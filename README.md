@@ -30,11 +30,7 @@ I’m interested in building reliable systems across application software, conne
 
 ## GitHub activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tundzai001&show_icons=true&hide_border=true&bg_color=0B1220&title_color=66D9C5&text_color=C7D4E0&icon_color=66D9C5&rank_icon=github" alt="GitHub statistics for tundzai001" />
-
-</div>
+See my [GitHub profile](https://github.com/tundzai001) for repositories and contribution history.
 
 ## Contribution graph
 
